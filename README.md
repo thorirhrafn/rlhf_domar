@@ -1,4 +1,3 @@
 # rlhf_domar
 
-Reinforcement learning from human feedback
-\\Natural language processing
+Reinforcement learning from human feedback for NLP
